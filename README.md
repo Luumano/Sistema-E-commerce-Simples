@@ -29,7 +29,7 @@ O relatório de cobertura pode ser acessado [aqui](coverage/index.html).
 - .NET 6+ instalado  
 - Git instalado
 ## 🔧 Clonar o Repositório  
-git clone https://github.com/Luumano/Sistema-E-commerce.git  
+git clone https://github.com/Luumano/Sistema-E-commerce-Simples.git
 cd Sistema-Ecommerce-main  
 ## 🔨 Restaurar Dependências e Compilar  
 dotnet restore  
