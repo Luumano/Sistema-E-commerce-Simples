@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E783637-2FA1-4296-8281-0C113B2B1A2E}|tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\tests\\sistemagestaopedidos.tests\\coverage.info||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3E783637-2FA1-4296-8281-0C113B2B1A2E}|tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj|solutionrelative:tests\\sistemagestaopedidos.tests\\coverage.info||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8969E6-B8D4-4F17-BC41-60518F3670E9}|tests\\SistemaGestaoPedidos.AcceptanceTests\\SistemaGestaoPedidos.AcceptanceTests.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\tests\\sistemagestaopedidos.acceptancetests\\features\\pedido.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9A8969E6-B8D4-4F17-BC41-60518F3670E9}|tests\\SistemaGestaoPedidos.AcceptanceTests\\SistemaGestaoPedidos.AcceptanceTests.csproj|solutionrelative:tests\\sistemagestaopedidos.acceptancetests\\features\\pedido.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7A452F-522B-4705-9A5D-D36DCE8D190F}|src\\SistemaGestaoPedidos.Presentation\\SistemaGestaoPedidos.Presentation.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\src\\sistemagestaopedidos.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7A452F-522B-4705-9A5D-D36DCE8D190F}|src\\SistemaGestaoPedidos.Presentation\\SistemaGestaoPedidos.Presentation.csproj|solutionrelative:src\\sistemagestaopedidos.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E783637-2FA1-4296-8281-0C113B2B1A2E}|tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\tests\\sistemagestaopedidos.tests\\entidades\\itempedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E783637-2FA1-4296-8281-0C113B2B1A2E}|tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj|solutionrelative:tests\\sistemagestaopedidos.tests\\entidades\\itempedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E783637-2FA1-4296-8281-0C113B2B1A2E}|tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\tests\\sistemagestaopedidos.tests\\entidades\\pedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E783637-2FA1-4296-8281-0C113B2B1A2E}|tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj|solutionrelative:tests\\sistemagestaopedidos.tests\\entidades\\pedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1292600-8040-4562-8E75-2DE7E3B2C724}|tests\\SistemaGestaoPedidos.IntegrationTests\\SistemaGestaoPedidos.IntegrationTests.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\tests\\sistemagestaopedidos.integrationtests\\pedidodbcontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1292600-8040-4562-8E75-2DE7E3B2C724}|tests\\SistemaGestaoPedidos.IntegrationTests\\SistemaGestaoPedidos.IntegrationTests.csproj|solutionrelative:tests\\sistemagestaopedidos.integrationtests\\pedidodbcontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1292600-8040-4562-8E75-2DE7E3B2C724}|tests\\SistemaGestaoPedidos.IntegrationTests\\SistemaGestaoPedidos.IntegrationTests.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\tests\\sistemagestaopedidos.integrationtests\\pedidoclientetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1292600-8040-4562-8E75-2DE7E3B2C724}|tests\\SistemaGestaoPedidos.IntegrationTests\\SistemaGestaoPedidos.IntegrationTests.csproj|solutionrelative:tests\\sistemagestaopedidos.integrationtests\\pedidoclientetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8969E6-B8D4-4F17-BC41-60518F3670E9}|tests\\SistemaGestaoPedidos.AcceptanceTests\\SistemaGestaoPedidos.AcceptanceTests.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\tests\\sistemagestaopedidos.acceptancetests\\features\\steps\\pedidosteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8969E6-B8D4-4F17-BC41-60518F3670E9}|tests\\SistemaGestaoPedidos.AcceptanceTests\\SistemaGestaoPedidos.AcceptanceTests.csproj|solutionrelative:tests\\sistemagestaopedidos.acceptancetests\\features\\steps\\pedidosteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E783637-2FA1-4296-8281-0C113B2B1A2E}|tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj|c:\\users\\mgerm\\sistema-e-commerce-simples\\sistema-e-commerce-main\\tests\\sistemagestaopedidos.tests\\sistemagestaopedidos.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E783637-2FA1-4296-8281-0C113B2B1A2E}|tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj|solutionrelative:tests\\sistemagestaopedidos.tests\\sistemagestaopedidos.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoTests.cs",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.Tests\\Entidades\\PedidoTests.cs",
+              "RelativeDocumentMoniker": "tests\\SistemaGestaoPedidos.Tests\\Entidades\\PedidoTests.cs",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.Tests\\Entidades\\PedidoTests.cs",
+              "RelativeToolTip": "tests\\SistemaGestaoPedidos.Tests\\Entidades\\PedidoTests.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwv3cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T21:48:13.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "coverage.info",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.Tests\\coverage.info",
+              "RelativeDocumentMoniker": "tests\\SistemaGestaoPedidos.Tests\\coverage.info",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.Tests\\coverage.info",
+              "RelativeToolTip": "tests\\SistemaGestaoPedidos.Tests\\coverage.info",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-05T15:23:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\src\\SistemaGestaoPedidos.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SistemaGestaoPedidos.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\src\\SistemaGestaoPedidos.Presentation\\Program.cs",
+              "RelativeToolTip": "src\\SistemaGestaoPedidos.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:23:25.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemPedidoTests.cs",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.Tests\\Entidades\\ItemPedidoTests.cs",
+              "RelativeDocumentMoniker": "tests\\SistemaGestaoPedidos.Tests\\Entidades\\ItemPedidoTests.cs",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.Tests\\Entidades\\ItemPedidoTests.cs",
+              "RelativeToolTip": "tests\\SistemaGestaoPedidos.Tests\\Entidades\\ItemPedidoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:20:43.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoClienteTests.cs",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.IntegrationTests\\PedidoClienteTests.cs",
+              "RelativeDocumentMoniker": "tests\\SistemaGestaoPedidos.IntegrationTests\\PedidoClienteTests.cs",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.IntegrationTests\\PedidoClienteTests.cs",
+              "RelativeToolTip": "tests\\SistemaGestaoPedidos.IntegrationTests\\PedidoClienteTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:20:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoSteps.cs",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.AcceptanceTests\\Features\\Steps\\PedidoSteps.cs",
+              "RelativeDocumentMoniker": "tests\\SistemaGestaoPedidos.AcceptanceTests\\Features\\Steps\\PedidoSteps.cs",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.AcceptanceTests\\Features\\Steps\\PedidoSteps.cs",
+              "RelativeToolTip": "tests\\SistemaGestaoPedidos.AcceptanceTests\\Features\\Steps\\PedidoSteps.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:26:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.feature",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.AcceptanceTests\\Features\\Pedido.feature",
+              "RelativeDocumentMoniker": "tests\\SistemaGestaoPedidos.AcceptanceTests\\Features\\Pedido.feature",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.AcceptanceTests\\Features\\Pedido.feature",
+              "RelativeToolTip": "tests\\SistemaGestaoPedidos.AcceptanceTests\\Features\\Pedido.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-18T16:24:00.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SistemaGestaoPedidos.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj",
+              "RelativeToolTip": "tests\\SistemaGestaoPedidos.Tests\\SistemaGestaoPedidos.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T21:47:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoDbContextTest.cs",
+              "DocumentMoniker": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.IntegrationTests\\PedidoDbContextTest.cs",
+              "RelativeDocumentMoniker": "tests\\SistemaGestaoPedidos.IntegrationTests\\PedidoDbContextTest.cs",
+              "ToolTip": "C:\\Users\\mgerm\\Sistema-E-commerce-Simples\\Sistema-E-commerce-main\\tests\\SistemaGestaoPedidos.IntegrationTests\\PedidoDbContextTest.cs",
+              "RelativeToolTip": "tests\\SistemaGestaoPedidos.IntegrationTests\\PedidoDbContextTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T22:23:39.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
